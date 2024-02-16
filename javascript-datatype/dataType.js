@@ -1,1 +1,2 @@
 // javascript datatype
+string , number
